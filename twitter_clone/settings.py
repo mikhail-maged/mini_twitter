@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-5(qfh@d2b1(bzg-g+8_p&fp21l%sglrrno5ruj$heuaw+_yyhq
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost',
-                 'mini-twitter-ap.herokuapp.com']
+                 'mini-twitter-ap.herokuapp.com', 'mini-twitter-app2.herokuapp.com']
 LOGIN_URL = "/login"
 
 # global variables consitrain
